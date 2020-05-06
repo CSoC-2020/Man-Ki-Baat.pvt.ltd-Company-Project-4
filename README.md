@@ -63,12 +63,13 @@ As from the data of our market responses the only word we heard is really innova
 5.)A supplement to develop medical-mental health industry to a next level.
 
 COMPANY BODY :
-
+```sh
 Founder & CEO – Mr.Anustup Mukherjee – ML developer at Metvy.Net.pvt ltd
 
   Winter Intern IIT Patna 
   Jr.Research intern Microsoft – Elementor 
   Speaker 
+  
 Number of Employee – 15
 
 Revenue report – 9Rs per user as per login basis
@@ -87,3 +88,4 @@ Bodies : Manager team
         Medical data collector and analyser team
         . 
          Smiling Yoga team. 
+```sh
