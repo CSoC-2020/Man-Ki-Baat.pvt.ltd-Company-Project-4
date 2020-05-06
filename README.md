@@ -72,7 +72,7 @@ Speaker
 
 Number of Employee – 15
 
-Revenue report – 9Rs per user as per login basis
+Revenue report – 9 Rs per user as per login basis
 
 Rs.1000-500 on monthly basis 
 
