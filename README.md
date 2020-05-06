@@ -66,16 +66,16 @@ COMPANY BODY :
 
 Founder & CEO – Mr.Anustup Mukherjee – ML developer at Metvy.Net.pvt ltd
 
-                                                                      Winter Intern IIT Patna 
-                                                                        Jr.Research intern Microsoft – Elementor 
-                                                                        Speaker 
+  Winter Intern IIT Patna 
+  Jr.Research intern Microsoft – Elementor 
+  Speaker 
 Number of Employee – 15
 
 Revenue report – 9Rs per user as per login basis
 
-                        Rs.1000-500 on monthly basis 
+  Rs.1000-500 on monthly basis 
                         
-                         Near to 5-11K yearly turnover at present  
+   Near to 5-11K yearly turnover at present  
 Bodies : Manager team
 
         Tech Team ( Frontend and backend )
